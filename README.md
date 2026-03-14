@@ -1,5 +1,5 @@
 # Samer Abd Alla Abdalgani
-## Full Stack Developer | CTO
+## Full Stack Developer |AI Engineer | CTO
 
 I am a seasoned full stack developer and CTO with over a decade of experience in web, desktop, and mobile development. My expertise spans various systems including online payment gateways, SMS providers, ERP, health systems, GRP, e-commerce, and tracking systems. I also have extensive experience with CMS platforms like WordPress and Joomla.
 
