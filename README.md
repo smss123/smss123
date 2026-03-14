@@ -4,7 +4,7 @@
 I am a seasoned full stack developer and CTO with over a decade of experience in web, desktop, and mobile development. My expertise spans various systems including online payment gateways, SMS providers, ERP, health systems, GRP, e-commerce, and tracking systems. I also have extensive experience with CMS platforms like WordPress and Joomla.
 
 🌍 Based in Kuwait  
-🖥️ See my portfolio on [LinkedIn]([http://linkedin.com/in/samerabdlla/](https://www.linkedin.com/in/janfu39474/))  
+🖥️ See my portfolio on [LinkedIn](http://linkedin.com/in/samerabdlla/](https://www.linkedin.com/in/janfu39474)  
 ✉️ Contact me at [smsssamer@gmail.com](mailto:smsssamer@gmail.com)  
 🚀 Currently working on an [e-commerce app](http://morgap.com/)  
 🧠 Learning: Node.js (NestJs, AdonisJs), C#, Ruby on Rails, React.js, Vue.js  
